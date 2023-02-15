@@ -56,7 +56,7 @@ function SkillsSection() {
             color: "#FFED00",
           }}
         >
-          Firebase, AWS, Vercel, Git, Github, Chrome devtools, VSCode,
+          Firebase, AWS, Vercel, Git, Github, Chrome devtools, VSCode, CI/CD
           Responsive design, SOLID principles & Figma.
         </p>
       </div>
