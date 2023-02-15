@@ -49,9 +49,8 @@ function HeroSection() {
           <h3>Hi, I'm Debarshi</h3>
           <p>
             A passionate Web Developer with around 2 years of experience, I
-            specialize in creating dynamic, high-performance websites using
-            modern web technologies. My goal is to craft intuitive and
-            aesthetically pleasing user experiences. I am ready to take on your
+            specialize in creating dynamic, high-performance websites, responsive design using
+            modern web technologies. With a focus of achieving performance metrics above 90%. I am ready to take on your
             next project and help bring your ideas to life on the web.
           </p>
           <div className="Hero-Section-Left-Buttons">

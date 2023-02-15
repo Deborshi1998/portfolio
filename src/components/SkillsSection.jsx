@@ -49,14 +49,15 @@ function SkillsSection() {
             color: "burlywood",
           }}
         >
-          Technologies
+          Technologies & Patterns
         </p>
         <p
           style={{
             color: "#FFED00",
           }}
         >
-          Firebase, AWS, Vercel, Git, Github
+          Firebase, AWS, Vercel, Git, Github, Chrome devtools, VSCode,
+          Responsive design, SOLID principles & Figma.
         </p>
       </div>
       <div
